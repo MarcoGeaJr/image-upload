@@ -348,3 +348,5 @@ healthchecksdb
 /src/Zendar.Import/Properties/ServiceDependencies/zendar-import - Web Deploy/profile.arm.json
 /src/Zendar.Export/Properties/ServiceDependencies/zendar-export - Zip Deploy/profile.arm.json
 /src/Zendar.Export/Properties/ServiceDependencies/zendar-export - Web Deploy/profile.arm.json
+/src/Image.API/appsettings.Development.json
+/src/Image.API/appsettings.Development.json
